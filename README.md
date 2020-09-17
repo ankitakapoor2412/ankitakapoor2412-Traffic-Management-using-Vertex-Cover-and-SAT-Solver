@@ -14,6 +14,6 @@ a3-ece650.cpp - It is the driver program connect rgen with a1-ece650 and a1-ece6
 
 a4-ece650.cpp - This is the main file which calls the FindVertexCover.cpp file. FindVertexCover.h - It is the header file for FindVertexCover.cpp. FindVertexCover.cpp - This file finds the vertex cover of the given vertices and the edges using sat solver.
 
-prj-ece650 - This file uses threads and compare three different sat solves: CNF SAT solver, Approx-1, Approx-2.
+prj-ece650 - This file uses threads and compare three different sat solvers: CNF SAT solver, Approx-1, Approx-2.
 
 doctest.h - Header file for test.cpp. test.cpp - It is the test file. CMakeLists.txt - It generates the executables for .cpp files. README.md - It contains the information about the files for the project.
