@@ -3,7 +3,6 @@ Traffic Management using Vertex Cover and SAT Solver
 rgen.cpp - It generates the random inputs for the python file a1-ece650.py. 
 GenerateCoordinates.h - Header file for GenerateCoordinates.cpp. 
 GenerateCoordinates.cpp - It generates random coordinates of the streets.
-
 ValidateCoordinates.h - Header file for ValidateCoordinates.cpp. 
 ValidateCoordinates.cpp - It Validates the output of the rgen. It removes the circular paths, overlapping paths, partial overlapping paths, duplicate paths and any misleading paths.
 
